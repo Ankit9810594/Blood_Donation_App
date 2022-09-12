@@ -1,0 +1,4 @@
+#Mon Sep 12 17:54:40 NPT 2022
+base.0=/Users/samyog/Desktop/Ankit_Sah/Android_Assignment-master/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
