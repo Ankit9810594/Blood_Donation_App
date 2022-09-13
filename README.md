@@ -27,3 +27,22 @@ Node.js:
 
 I used Node.js for backend. Node.js (Node) is an open source development platform for executing JavaScript code server-side.
 Node is useful for developing applications that require a persistent connection from the browser to the server and is often used for real-time applications such as chat, news feeds and web push notifications.
+
+MongoDB:
+
+MongoDB is an open source NoSQL database management program. NoSQL is used as an alternative to traditional relational databases. NoSQL databases are quite useful for working with large sets of distributed data. MongoDB is a tool that can manage document-oriented information, store or retrieve information.
+
+To Run this App:
+
+FRONTEND:
+cd Android_Assignment-master 
+Flutter Clean
+Flutter pub get
+Flutter run
+
+BACKEND:
+cd blood_donation_api-master
+npm i
+nodemon server.js
+
+
